@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<browsercaps>
+<comments>
+<comment><![CDATA[Provided courtesy of http://browscap.org/]]></comment>
+<comment><![CDATA[Created on Tuesday, April 7, 2015 at 07:57 AM UTC]]></comment>
+<comment><![CDATA[Keep up with the latest goings-on with the project:]]></comment>
+<comment><![CDATA[Follow us on Twitter <https://twitter.com/browscap>, or...]]></comment>
+<comment><![CDATA[Like us on Facebook <https://facebook.com/browscap>, or...]]></comment>
+<comment><![CDATA[Collaborate on GitHub <https://github.com/browscap>, or...]]></comment>
+<comment><![CDATA[Discuss on Google Groups <https://groups.google.com/forum/#!forum/browscap>.]]></comment>
+</comments>
+<gjk_browscap_version>
+<item name="Version" value="6001"/>
+<item name="Released" value="Tue, 07 Apr 2015 07:57:27 +0000"/>
+</gjk_browscap_version>
+<browsercapitems>
+<browscapitem name="DefaultProperties">
+<item name="Comment" value="DefaultProperties"/>
+<item name="Browser" value="DefaultProperties"/>
+<item name="Browser_Maker" value=""/>
+<item name="Version" value="0.0"/>
+<item name="MajorVer" value="0"/>
+<item name="MinorVer" value="0"/>
+<item name="Platform" value=""/>
+<item name="Win32" value="false"/>
+<item name="Win64" value="false"/>
+<item name="isMobileDevice" value="false"/>
+<item name="isTablet" value="false"/>
+<item name="Device_Type" value=""/>
+<item name="Device_Pointing_Method" value=""/>
+</browscapitem>
+<browscapitem name="360Spider">
+<item name="Parent" value="DefaultProperties"/>
+<item name="Comment" value="360Spider"/>
+<item name="Browser" value="360Spider"/>
+<item name="Browser_Maker" value="so.360.cn"/>
+<item name="Version" value="0.0"/>
+<item name="MajorVer" value="0"/>
+<item name="MinorVer" value="0"/>
+<item name="Platform" value=""/>
+<item name="Win32" value="false"/>
+<item name="Win64" value="false"/>
+<item name="isMobileDevice" value="false"/>
+<item name="isTablet" value="false"/>
+<item name="Device_Type" value=""/>
+<item name="Device_Pointing_Method" value=""/>
+</browscapitem>
+<browscapitem name="Mozilla/4.0 (compatible; MSIE 8.0*; *Windows NT 5.0; *WOW64*Trident/4.0*)* 360Spider">
+<item name="Parent" value="360Spider"/>
+<item name="Comment" value="360Spider"/>
+<item name="Browser" value="360Spider"/>
+<item name="Browser_Maker" value="so.360.cn"/>
+<item name="Version" value="0.0"/>
+<item name="MajorVer" value="0"/>
+<item name="MinorVer" value="0"/>
+<item name="Platform" value="Win2000"/>
+<item name="Win32" value="false"/>
+<item name="Win64" value="true"/>
+<item name="isMobileDevice" value="false"/>
+<item name="isTablet" value="false"/>
+<item name="Device_Type" value="Desktop"/>
+<item name="Device_Pointing_Method" value="mouse"/>
+</browscapitem>
+<browscapitem name="Mozilla/4.0 (compatible; MSIE 8.0*; *Windows NT 5.01*Trident/4.0*)* 360Spider">
+<item name="Parent" value="360Spider"/>
+<item name="Comment" value="360Spider"/>
+<item name="Browser" value="360Spider"/>
+<item name="Browser_Maker" value="so.360.cn"/>
+<item name="Version" value="0.0"/>
+<item name="MajorVer" value="0"/>
+<item name="MinorVer" value="0"/>
+<item name="Platform" value="Win2000"/>
+<item name="Win32" value="true"/>
+<item name="Win64" value="false"/>
+<item name="isMobileDevice" value="false"/>
+<item name="isTablet" value="false"/>
+<item name="Device_Type" value="Desktop"/>
+<item name="Device_Pointing_Method" value="mouse"/>
+</browscapitem>
+<browscapitem name="Mozilla/4.0 (compatible; MSIE 8.0*; *Windows NT 5.0*Trident/4.0*)* 360Spider">
+<item name="Parent" value="360Spider"/>
+<item name="Comment" value="360Spider"/>
+<item name="Browser" value="360Spider"/>
+<item name="Browser_Maker" value="so.360.cn"/>
+<item name="Version" value="0.0"/>
+<item name="MajorVer" value="0"/>
+<item name="MinorVer" value="0"/>
+<item name="Platform" value="Win2000"/>
+<item name="Win32" value="true"/>
+<item name="Win64" value="false"/>
+<item name="isMobileDevice" value="false"/>
+<item name="isTablet" value="false"/>
+<item name="Device_Type" value="Desktop"/>
+<item name="Device_Pointing_Method" value="mouse"/>
+</browscapitem>
+</browsercapitems>
+</browsercaps>
